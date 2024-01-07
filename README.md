@@ -29,7 +29,7 @@ Once you go to the link, you can enter a username, select a cat, and hit enter. 
 
 # Project Demo Video
 <a href="https://www.youtube.com/watch?v=hZsyl4SV3jQ">
-  <img src="https://img.youtube.com/vi/hZsyl4SV3jQ/0.jpg" alt="Video Thumbnail" width="300" height="200">
+  <img src="https://github.com/jspgr33n/Poro-Party/assets/70019194/e3c2f20a-202a-4eb2-9e0d-bc7f3df8416b" alt="Video Thumbnail" width="300" height="170">
 </a>
 
 # Project Installation, User Guide, and other Documentation
